@@ -32,3 +32,6 @@ the password reset itself is done via the pwreset route.
 #Disclaimer
 I'm not a node expert, this is just something I've done in my free time, mainly because I have been looking for something like this
 and I wasn't able to find it. Any feedback is welcomed, just keep in mind this is only intended to help whomever it can.
+
+This is a live exampe of it : 
+https://ziepher-andrei-1.c9.io/
